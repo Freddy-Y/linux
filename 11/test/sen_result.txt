@@ -1,0 +1,2 @@
+19:		result = m*n / tem;//temp打错 cmd
+30.cpp

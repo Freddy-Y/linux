@@ -1,0 +1,12 @@
+20.cpp: In function ‘void F2()’:
+20.cpp:19:18: error: ‘tem’ was not declared in this scope
+   result = m*n / tem;//temp打错
+                  ^
+
+
+30.cpp: In function ‘void F2()’:
+30.cpp:19:18: error: ‘tem’ was not declared in this scope
+   result = m*n / tem;//temp打错 cmd
+                  ^
+
+
